@@ -4,24 +4,23 @@
     justify-content: center;
     color: white;
     padding: 40px;
-}
-
-.banner__titulo {
+    }
+    
+    .banner__titulo {
     font-size: 18px;
     font-weight: 700;
-}
-
-
-.banner__texto {
+    }
+    
+    .banner_texto {
     font-weight: 500;
     margin: 1em;
-}
-
-.banner__pesquisa {
+    }
+    
+    .banner_perquisa {
     background-color: var(--azul-degrade);
     border: 1px solid var(--branco);
     color: var(--branco);
     border-radius: 24px;
     padding: 1em;
-    width: 100%; 
-}
+    width: 100%;
+    }
